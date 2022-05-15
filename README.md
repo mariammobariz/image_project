@@ -19,7 +19,6 @@
 	```
 	pip install <package_name>
 	```
-in the 2nd phase I used the data provided by the professor
 ## Run Steps
 - Go to the image_project folder
 - open CMD window
@@ -34,4 +33,6 @@ python detector.py/vehicle_detection.py <image/video path> run
 ### Debug mode example
 ```
 python detector.py/vehicle_detection.py <image/video path> debug
+
+in the 2nd phase I used the data provided by the professor
 ```
