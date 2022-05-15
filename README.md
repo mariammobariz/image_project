@@ -33,6 +33,5 @@ python detector.py/vehicle_detection.py <image/video path> run
 ### Debug mode example
 ```
 python detector.py/vehicle_detection.py <image/video path> debug
-
 ```
 in the 2nd phase I used the data provided by the professor
