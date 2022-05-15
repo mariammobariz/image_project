@@ -28,7 +28,7 @@ python detector.py/vehicle_detection.py <image/video path> <mode: run/debug>
 ```
 ### Run mode example
 ```
-python detector.py/vehicle_detection.p <image/video path> run
+python detector.py/vehicle_detection.py <image/video path> run
 ```
 ### Debug mode example
 ```
