@@ -34,5 +34,5 @@ python detector.py/vehicle_detection.py <image/video path> run
 ```
 python detector.py/vehicle_detection.py <image/video path> debug
 ```
-# Traning data
+## Traning data
 - I used the data provided by the professor [Data](https://drive.google.com/file/d/1gIyMqxqxClA7os5CgK3VqzigP58TBqjH/view).
