@@ -19,8 +19,7 @@
 	```
 	pip install <package_name>
 	```
-##Traning data
--in the 2nd phase I used the data provided by the professor
+in the 2nd phase I used the data provided by the professor
 ## Run Steps
 - Go to the image_project folder
 - open CMD window
